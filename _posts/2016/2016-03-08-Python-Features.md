@@ -17,9 +17,7 @@ tags:
 
 1. Writing Python code is quick but running it is often slower than compiled languages. Fortunately， Python allows the inclusion of C based extensions so bottlenecks can be optimised away and often are. The numpy package is a good example of this, it's really quite quick because a lot of the number crunching it does isn't actually done by Python
 
-1. Generators allow for iterative processing of things, one item at a time. This doesn't seem so fancy, until you start to realize that normal iterative processing of a list requires a list. A list takes memory. A really big list takes a lot of memory.
-
-Where this becomes particularly handy is when you have a long chain of processes you need to apply to a set of data. Generators allow you to grab source data one item at a time, and pass each through the full processing chain.
+1. Generators allow for iterative processing of things, one item at a time. This doesn't seem so fancy, until you start to realize that normal iterative processing of a list requires a list. A list takes memory. A really big list takes a lot of memory. Where this becomes particularly handy is when you have a long chain of processes you need to apply to a set of data. Generators allow you to grab source data one item at a time, and pass each through the full processing chain.
 
 1. Python has gained a reputation as being easy to learn. The syntax of the language is designed to be readable. There's plenty of argument on the subject, but the facts speak for themselves.
 
