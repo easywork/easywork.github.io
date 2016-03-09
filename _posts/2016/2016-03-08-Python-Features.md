@@ -7,7 +7,7 @@ tags:
 - MarkDown
 ---
 
-##### Below discuss some features of python
+#### Below discuss some features of python
 
 1. Python is dynamically typed, this means that you don't need to state the types of variables when you declare them or anything like that. You can do things like x=111 and then x="I'm a string" without error
 

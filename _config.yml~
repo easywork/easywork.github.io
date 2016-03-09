@@ -1,6 +1,0 @@
-markdown: kramdown
-permalink: /:year/:month/:title/
-url: http://easywork.github.io
-author: easywork
-pygments: true
-paginate: 24
