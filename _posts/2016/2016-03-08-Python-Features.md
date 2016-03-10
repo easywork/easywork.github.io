@@ -23,5 +23,9 @@ tags:
 
 1. Much of Python's popularity is in fields like scientific computing. The people working in this field are scientists first, and programmers second (if at all).
 
+1. Python lets you code in a more semantic way. For example, if you want to specify a value x, that 2<=x<=5, in python you can code it as 'x in range(2,6)'.
+
+1. If you are not sure the usage of a built-in function of a language, what can you do? For example, you are not sure if you can do 'str1' + 'str2', in python, you can just try in out in the intactive terminal, but in Java, you need to code a class and compile it before you know if you can do it.
+
 Advanced systems like NumPy and SciPy were started not by teams of software engineers, but by domain experts building the tools they needed to get a job done.
 
